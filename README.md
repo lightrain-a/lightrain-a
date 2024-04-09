@@ -28,13 +28,12 @@ Here are some ideas to get you started:
 - 🌱 Expanding my knowledge in all areas of interest.
 - 💬 Let's discuss anything Cyber Science and Engineering, AI, Python, and more.
 - 📫 Reach out via email at yu24810@foxmail.com.
-- 🌟 Discover more on my <a href="https://blog.csdn.net/WTYuong/"><img src="https://img.shields.io/badge/CSDN-blog-c32136" /></a> .
+- 🔭 Discover more in my notebook: <a href="https://blog.csdn.net/WTYuong/"><img src="https://img.shields.io/badge/CSDN-blog-c32136" /></a> .
+- 🌟 Wishing you a day filled with magical and wondrous moments.
 
 
-
-
-<summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 <details>
+ <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 
 <h2 align="left">📃 Recent Blog:</h2> 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
