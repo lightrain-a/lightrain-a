@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 <img src="https://stats.justsong.cn/api/csdn?id=WTYuong&theme=light" alt="是Yu欸的CSDN数据" style="zoom:100%;" align="right"/>
 
 🌈 你好呀，我是小雨，一个充满好奇心的ENFP，正在不断提升能力以满足前者。 <br />
-🌌 2024年，我将持续每日百字篆刻时光，感谢你的陪伴和支持！  <br />
-🌟 每周二将开展送书福利活动，期待你的关注和参与 ~ <br />
+🌌 2024年，我将在CSDN持续每日百字篆刻时光，期待你的陪伴和支持！  <br />
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Talk me about anything related to Cyber Science and Engineering,AI,python,etc.
 - 📫 How to reach me? Email: yu24810@foxmail.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/WTYuong)
+- 🌟 Read more about my CSDN: [here](https://blog.csdn.net/WTYuong)
 
 <details>
  <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
