@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+热门语言卡片
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[lightrain-a](https://github.com/lightrain-a/lightrain-a)&layout=compact)
+
