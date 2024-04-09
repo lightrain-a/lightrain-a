@@ -24,17 +24,27 @@ Here are some ideas to get you started:
 <img src="https://stats.justsong.cn/api/csdn?id=WTYuong&theme=light" alt="是Yu欸的CSDN数据" style="zoom:100%;" align="right"/>
 
 🌈 你好呀，我是小雨，一个充满好奇心的ENFP，正在不断提升能力以满足前者。 <br />
-🌌 2024年，我将在CSDN持续每日百字篆刻时光，期待你的陪伴和支持！  <br />
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Talk me about anything related to Cyber Science and Engineering,AI,python,etc.
-- 📫 How to reach me? Email: yu24810@foxmail.com
-- 🌟 Read more about my CSDN: [here](https://blog.csdn.net/WTYuong)
+🌌 2024年，我将在CSDN每日用百字篆刻时光，期待你的陪伴和支持！  <br />
+- 🌱 Expanding my knowledge in all areas of interest.
+- 💬 Let's discuss anything Cyber Science and Engineering, AI, Python, and more.
+- 📫 Reach out via email at yu24810@foxmail.com.
+- 🌟 Discover more on my <a href="https://blog.csdn.net/WTYuong/"><img src="https://img.shields.io/badge/CSDN-blog-c32136" /></a> .
 
+
+
+
+<summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 <details>
- <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
-  <h2 align="left">📈 GitHub Activity Graph:</h2> 
 
+<h2 align="left">📃 Recent Blog:</h2> 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+
+- [四年旅程，一路成长——小雨的创作纪念日](https://blog.csdn.net/wtyuong/article/details/137229014?spm=1001.2014.3001.5502) -2024-04-01
+- [量子计算与量子密码（入门级-少图版）](https://blog.csdn.net/wtyuong/article/details/134120083?spm=1001.2014.3001.5502) -2024-03-07
+- [【网安AIGC专题】46篇前沿代码大模型论文、24篇论文阅读笔记汇总](https://blog.csdn.net/wtyuong/article/details/134650727?spm=1001.2014.3001.5502) -2024-02-06
+
+
+  <h2 align="left">📈 GitHub Activity Graph:</h2> 
 <table border=0>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=lightrain-a&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="lightrain-a's GitHub stats" style="zoom:100%;" align="left"/></td>
