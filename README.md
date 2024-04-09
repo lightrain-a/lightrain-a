@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-热门语言卡片
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightrain-a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=lightrain-a" /> </div>
