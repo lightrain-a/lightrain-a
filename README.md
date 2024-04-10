@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <img src="https://stats.justsong.cn/api/csdn?id=WTYuong&theme=light" alt="是Yu欸的CSDN数据" style="zoom:100%;" align="right"/>
 
 🌈 你好呀，我是小雨，一个充满好奇心的ENFP，正在不断提升能力以满足前者。 <br />
-🌌 2024年，我将在CSDN每日用百字篆刻时光，期待你的陪伴和支持！  <br />
+🌌 2024年，我计划在CSDN上每日用百字篆刻时光，期待你的陪伴和支持！  <br />
+
+👋 Hello there! I'm Anita, an ENFP through and through. I’m on a continuous journey to enhance my skills and satisfy my curiosity. 
 - 🌱 Expanding my knowledge in all areas of interest.
 - 💬 Let's discuss anything Cyber Science and Engineering, AI, Python, and more.
 - 📫 Reach out via email at yu24810@foxmail.com.
