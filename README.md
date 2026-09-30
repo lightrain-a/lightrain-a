@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🌈 你好呀，我是晓雨，一个充满好奇心的ENFP，正在不断提升能力以满足前者。 <br />
 🌌 2024，我计划在CSDN上每日用百字篆刻时光，感谢你的陪伴！  <br />
 
-👋 Hello there! I'm Anita, an ENFP through and through. I’m on a continuous journey to enhance my skills and satisfy my curiosity. 
+👋 Hello there! I'm LightRain. I’m on a continuous journey to enhance my skills and satisfy my curiosity. 
 - 🌱 Expanding my knowledge in all areas of interest.
 - 💬 Let's discuss anything Cyber Science and Engineering, AI, Python, and more.
 - 📫 Reach out via email at yu24810@foxmail.com.
