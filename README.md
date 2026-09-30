@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <img src="https://stats.justsong.cn/api/csdn?id=WTYuong&theme=light" alt="是Yu欸的CSDN数据" style="zoom:100%;" align="right"/>
 
-🌈 你好呀，我是小雨，一个充满好奇心的ENFP，正在不断提升能力以满足前者。 <br />
-🌌 2024年，我计划在CSDN上每日用百字篆刻时光，期待你的陪伴和支持！  <br />
+🌈 你好呀，我是晓雨，一个充满好奇心的ENFP，正在不断提升能力以满足前者。 <br />
+🌌 2024，我计划在CSDN上每日用百字篆刻时光，感谢你的陪伴！  <br />
 
 👋 Hello there! I'm Anita, an ENFP through and through. I’m on a continuous journey to enhance my skills and satisfy my curiosity. 
 - 🌱 Expanding my knowledge in all areas of interest.
@@ -40,10 +40,8 @@ Here are some ideas to get you started:
 <h2 align="left">📃 Recent Blog:</h2> 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
-- [四年旅程，一路成长——小雨的创作纪念日](https://blog.csdn.net/wtyuong/article/details/137229014?spm=1001.2014.3001.5502) -2024-04-01
 - [量子计算与量子密码（入门级-少图版）](https://blog.csdn.net/wtyuong/article/details/134120083?spm=1001.2014.3001.5502) -2024-03-07
 - [【网安AIGC专题】46篇前沿代码大模型论文、24篇论文阅读笔记汇总](https://blog.csdn.net/wtyuong/article/details/134650727?spm=1001.2014.3001.5502) -2024-02-06
-
 
   <h2 align="left">📈 GitHub Activity Graph:</h2> 
 <table border=0>
